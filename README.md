@@ -1,10 +1,10 @@
-<head1>Análise de Dados e Machine Learning</head>
+#Análise de Dados e Machine Learning
 ##
 Análise de dados de um banco para que, com base nessa análise, seja criado um modelo que consiga ler as informações do cliente e dizer automaticamente o score de crédito dele: Ruim, Ok, Bom.
 ##
-<head3>Linguagem utilizada:</head3> **Python**
+##Linguagem utilizada: **Python**
 #
-<head3>Análise e Tratamento de Dados:</head3> **Pandas**
+##Análise e Tratamento de Dados: Pandas**
 #
-<head3>Machine Learning:</head3> **Scikit-learn**
+##Machine Learning: **Scikit-learn**
 ##
